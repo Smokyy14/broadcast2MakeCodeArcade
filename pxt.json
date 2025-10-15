@@ -1,0 +1,19 @@
+{
+  "name": "broadcast-to-arcade",
+  "version": "1.0",
+  "description": "Extension that adds Scratch-like broadcast messaging to MakeCode Arcade",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "public": true,
+  "targetVersions": {
+    "target": "1.12.17",
+    "targetId": "arcade"
+  },
+  "supportedTargets": [
+    "arcade"
+  ]
+}
